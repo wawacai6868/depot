@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"android_version":"156","android_url":"https://app.shierxie.com/300/app/28Q156.apk","other":",aHR0cHM6Ly90ZXl4ZG9uZS4yOHF1YW4uc2l0ZToxMDA1LGh0dHBzOi8vdGV5eGR0d28uMjhxdWFuLnNpdGU6MTAwNSxodHRwczovL3RleXhkb25lYi4yOHF1YW4uc2l0ZToxMDA1LGh0dHBzOi8vdGV5eGR0d29iLjI4cXVhbi5zaXRlOjEwMDU=,","thirdLoginEnable":"0"}]}}
