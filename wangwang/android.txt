@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"171","android_url":"https://app.iamfa.com/wangwangOnline171.apk","other":",aHR0cHM6Ly93bGFwcC50ZXJyeXNheXMuY29tOjgyNTAsaHR0cHM6Ly93d2dyYXBpLnlmbXl4ay5jbw==","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"171","android_url":"https://app.iamfa.com/wangwangOnline171.apk","other":",aHR0cHM6Ly93bGFwcC50ZXJyeXNheXMuY29tOjgyNTA=","thirdLoginEnable":"0"}]}}
