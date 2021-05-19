@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"156","android_url":"https://app.shierxie.com/300/app/28Q156.apk","other":",aHR0cHM6Ly9hcGkuaWZ3ZWtub3cuY29tOjgzNTA=,","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"156","android_url":"https://app.shierxie.com/300/app/28Q156.apk","other":",aHR0cHM6Ly9hcGkuaWZ3ZWtub3cuY29tOjgzNTAsaHR0cHM6Ly8yOGFwcC54aWFvbWFvbWEuY29t,","thirdLoginEnable":"0"}]}}
