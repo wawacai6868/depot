@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"","android_url":"","other": ",aHR0cHM6Ly9zcHl4ZG9uZWIuemR0Y3FzLmNvbTo5OTA1LGh0dHBzOi8vbmdhcHAueGlhb21hb21hLmNvbSxodHRwczovL3NwZ2ZvbmUuZmFuZ21lbmdjaGVuLmNvbToyOTkwNSxodHRwczovL3NwZ29uZS5yYndydnAuY29t","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"","android_url":"","other": ",aHR0cHM6Ly9uZ2FwcC54aWFvbWFvbWEuY29tLGh0dHBzOi8vc3BnZm9uZS5mYW5nbWVuZ2NoZW4uY29tOjI5OTA1LGh0dHBzOi8vc3Bnb25lLnJid3J2cC5jb20=","thirdLoginEnable":"0"}]}}
