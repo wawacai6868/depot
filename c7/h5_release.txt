@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"","android_url":"","other":",aHR0cDovL2Nzd3NvbmUueGhxZXkuY29t","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"","android_url":"","other":",aHR0cDovL2Nzd3NvbmUueGhxZXkuY29tLGh0dHA6Ly95eGRvbmViLmM3b3BxLmNsdWI6OTk5OQ==","thirdLoginEnable":"0"}]}}
