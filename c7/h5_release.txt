@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"223","android_url":"https://app.huanghb.com/c7/app/c7_release223.apk","other":",aHR0cHM6Ly9jc3dzLnFraHg3Nzg4OTkuY29t","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"223","android_url":"https://app.huanghb.com/c7/app/c7_release223.apk","other":",aHR0cHM6Ly9jc3dzb25lLnRvdXBpYW9jaGEuY29t","thirdLoginEnable":"0"}]}}
