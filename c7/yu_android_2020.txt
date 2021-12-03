@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"178","android_url":"https://app.kjzoo.com/7c/app/C7_178.apk","other":",aHR0cDovL25ld2FwcDdjLmp4aWFveWUuY29tOjk5OTksaHR0cDovL25ld2FwcDdjLmp4aWFveWUuY29tOjk5OTksaHR0cDovL25ld2FwcDdjLmp4aWFveWUuY29tOjk5OTksaHR0cDovL25ld2FwcDdjLmp4aWFveWUuY29tOjk5OTk=","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"178","android_url":"https://app.kjzoo.com/7c/app/C7_178.apk","other":",aHR0cDovL2M3YXBpeWZiLmM3MTcuY2M6MTAwMDA=","thirdLoginEnable":"0"}]}}
