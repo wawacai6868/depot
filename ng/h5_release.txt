@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"505","android_url":"https://app.huanghb.com/ng/app/NG505.apk","other":",aHR0cHM6Ly9zcHdzLmtvbmdxaW1pbWEuY29t","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"505","android_url":"https://app.huanghb.com/ng/app/NG506.apk","other":",aHR0cHM6Ly9zcHdzLmtvbmdxaW1pbWEuY29t","thirdLoginEnable":"0"}]}}
