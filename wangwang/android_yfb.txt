@@ -1,1 +1,0 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"183","android_url":"","other":",aHR0cDovL3d3eWZiYXBpLndhbmd3YW5nYWJjLmNvbTo5OTA5LGh0dHA6Ly93d2NmeWZiLndhbmd3YW5nYWJjLm9ubGluZToyMDk1LGh0dHBzOi8vd3d5ZmJhcGluZXcud2FuZ3dhbmdhYmMuY29tOjE5OTA5LGh0dHA6Ly95ZmJ3YWYud2FuZ3dhbmdhYmMueHl6LGh0dHBzOi8vd3d0ZXN0Lndhbmd3YW5nYWJjLmNvbQ==","thirdLoginEnable":"0"}]}}
