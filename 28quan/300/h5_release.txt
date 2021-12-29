@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"170","android_url":"https://app.huanghb.com/300/app/28qonline170.apk","other":",aHR0cHM6Ly90ZXF3c29uZS55cWx2eW91LmNvbQ==,","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"200","android_url":"https://app.huanghb.com/300/app/28quan200.apk","other":",aHR0cHM6Ly90ZXF3c29uZS55cWx2eW91LmNvbQ==,","thirdLoginEnable":"0"}]}}
