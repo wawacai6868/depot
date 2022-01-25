@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"188","android_url":"https://app.iamfa.com/wangwangOnline188.apk","other":",aHR0cDovL3d3dGVzdC53YW5nd2FuZ2FiYy5jb20saHR0cDovLzExOS4xMy43Ny4yMTA=,1.好友聊天功能优化\n2.修复已知bug","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"188","android_url":"https://app.iamfa.com/wangwangOnline188.apk","other":",aHR0cHM6Ly9hcGkyMDIyY2guaHd3d3l1c2UueHl6LGh0dHA6Ly9hcGkyMDIyY2gud2FuZ3dhbmdhYmMueHl6,1.xx\n2.xx","thirdLoginEnable":"0"}]}}
