@@ -1,1 +1,0 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"112","android_url":"https://app.kjzoo.com/300/app/28Qyfb.apk","other":",aHR0cDovL2FwcHJlYWR5LjI4cXVhbi52aXA6MjAwNSxodHRwOi8vYXBwcmVhZHkuMjhxdWFuLnZpcDoyMDA1,","thirdLoginEnable":"0"}]}}

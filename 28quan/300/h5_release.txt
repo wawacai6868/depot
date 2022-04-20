@@ -1,1 +1,0 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"200","android_url":"https://app.huanghb.com/300/app/28quan200.apk","other":",aHR0cHM6Ly90ZXF3c3N0LnNxLTg4LmNvbQ==,","thirdLoginEnable":"0"}]}}
