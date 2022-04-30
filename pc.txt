@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"198","android_url":"https://app.iamfa.com/wangwangOnline198.apk","other":",aHR0cHM6Ly93d2NmcGMud2FuZ2xpYW9pbS5jb20saHR0cDovL3d3cGMud2FuZ3dhbmdhYmMuY29t","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"198","android_url":"https://app.iamfa.com/wangwangOnline198.apk","other":",aHR0cHM6Ly93d2NmcGMud2FuZ2xpYW9pbS5jb20saHR0cDovL3d3cGMud2FuZ3dhbmdhYmMuY29tLGh0dHA6Ly93d2ZkcGMud2FuZ3dhbmdoZS54eXo=","thirdLoginEnable":"0"}]}}
