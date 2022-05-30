@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"ios_version":"200","ios_url":"","applePlist_url":"","other":",aHR0cHM6Ly93d2FwaS55Zm15eGsuY29tLGh0dHBzOi8vYXBpeDMwMS53YW5nd2FuZzE4OC5jb20=,修复了一些已知问题","thirdLoginEnable":"0","appleStore_url":"itms-apps://itunes.apple.com/app/id1488423320"}]}}
+{"root":{"code":"1","message":"ok","result":[{"ios_version":"208","ios_url":"","applePlist_url":"","other":",aHR0cHM6Ly93d2FwaS55Zm15eGsuY29tLGh0dHBzOi8vYXBpeDMwMS53YW5nd2FuZzE4OC5jb20=,修复了一些已知问题","thirdLoginEnable":"0","appleStore_url":"itms-apps://itunes.apple.com/app/id1488423320"}]}}
