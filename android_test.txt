@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"android_version":"212","android_url":"https://app.qingdaoshibei.com/wangwangOnline212.apk","other":",aHR0cHM6Ly93d3pqYXBpMi55Zm15eGsuY29tLGh0dHBzOi8vd3d6amFwaTMueWZteXhrLmNvbQ==,1:充值提现指引优化\n2:优化红包转账等已知问题\n3:其他功能优化及修复,aHR0cDovLzE0LjE3LjExNC4xMjg6ODMyMQ==","thirdLoginEnable":"0"}]}}
