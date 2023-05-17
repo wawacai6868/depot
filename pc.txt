@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"222","android_url":"https://app.24hyyls.com/pc/","other":",aHR0cHM6Ly93d3dzcGMuem90cnltLmNvbSxodHRwczovL3d3aHlwYy53d2MwMS5jb20saHR0cHM6Ly93d3pqcGMud3djMDEuY29t","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"222","android_url":"https://app.24hyyls.com/pc/","other":",aHR0cHM6Ly93d2h5cGMud3djMDEuY29tLGh0dHBzOi8vd3d6anBjLnd3YzAxLmNvbQ==","thirdLoginEnable":"0"}]}}
